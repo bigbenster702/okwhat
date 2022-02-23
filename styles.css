@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 
 maintext {
-    margin: 0;
-    position: absolute;
-    transform: translate(-50%,-50%);
     font-size: 4em;
     font-family: 'Ubuntu Mono', monospace;
     text-align: center

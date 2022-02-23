@@ -1,0 +1,8 @@
+maintext {
+    margin: 0;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    font-size: 4em;
+    font-family: 'Ubuntu Mono', monospace;
+    text-align: center
+}

@@ -3,5 +3,6 @@
 maintext {
     font-size: 4em;
     font-family: 'Ubuntu Mono', monospace;
-    top: 100%;
+    top: 50%;
+    left: 50%;
 }

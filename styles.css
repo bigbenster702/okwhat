@@ -4,4 +4,10 @@ maintext {
     text-align: center;
     font-size: 4em;
     font-family: 'Ubuntu Mono', monospace;
+    top: 50%;
+    left: 50%;
+}
+
+div.a {
+  text-align: center;
 }

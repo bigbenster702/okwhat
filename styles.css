@@ -4,13 +4,3 @@ maintext {
     font-size: 4em;
     font-family: 'Ubuntu Mono', monospace;
 }
-
-smallermaintext {
-    font-size: 1em;
-    font-family: 'Ubuntu Mono', monospace;
-}
-
-p {
-  margin: 0;
-  text-indent: 3ch;
-}

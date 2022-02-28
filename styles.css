@@ -4,3 +4,8 @@ maintext {
     font-size: 4em;
     font-family: 'Ubuntu Mono', monospace;
 }
+
+smallermaintext {
+    font-size: 2em;
+    font-family: 'Ubuntu Mono', monospace;
+}
